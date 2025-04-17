@@ -85,13 +85,6 @@
 
   
   <url>
-    <loc>http://whw-colab.github.io/categories/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/</loc>
-    <lastmod>2025-04-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://whw-colab.github.io/categories/%E5%90%8E%E7%AB%AF/</loc>
     <lastmod>2025-04-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -99,7 +92,7 @@
   </url>
   
   <url>
-    <loc>http://whw-colab.github.io/categories/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/CTF%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>http://whw-colab.github.io/categories/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/</loc>
     <lastmod>2025-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -107,6 +100,13 @@
   
   <url>
     <loc>http://whw-colab.github.io/categories/%E5%90%8E%E7%AB%AF/C/</loc>
+    <lastmod>2025-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://whw-colab.github.io/categories/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/CTF%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2025-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
