@@ -1,8 +1,8 @@
-https://whw.homes/2025/04/17/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/
-https://whw.homes/tags/index.html
-https://whw.homes/categories/index.html
-https://whw.homes/about/index.html
-https://whw.homes/resources/index.html
-https://whw.homes/README.html
-https://whw.homes/2025/04/15/hello-world/
-https://whw.homes/
+http://whw-colab.github.io/2025/04/17/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/
+http://whw-colab.github.io/tags/index.html
+http://whw-colab.github.io/categories/index.html
+http://whw-colab.github.io/about/index.html
+http://whw-colab.github.io/resources/index.html
+http://whw-colab.github.io/README.html
+http://whw-colab.github.io/2025/04/15/hello-world/
+http://whw-colab.github.io/
