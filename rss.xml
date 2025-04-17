@@ -3,8 +3,8 @@
     <channel>
         <title>潇潇先生个人博客</title>
         <subtitle></subtitle>
-        <icon>http://example.com/images/favicon.ico</icon>
-        <link>http://example.com</link>
+        <icon>https://whw.homes/images/favicon.ico</icon>
+        <link>https://whw.homes</link>
         <author>
           <name>潇潇先生</name>
         </author>
@@ -13,16 +13,16 @@
         <pubDate>Thu, 17 Apr 2025 03:52:11 +0800</pubDate>
         <lastBuildDate>Thu, 17 Apr 2025 03:52:11 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">http://example.com/2025/04/17/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+            <guid isPermalink="true">https://whw.homes/2025/04/17/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
             <title></title>
-            <link>http://example.com/2025/04/17/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+            <link>https://whw.homes/2025/04/17/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
             <pubDate>Thu, 17 Apr 2025 03:52:11 +0800</pubDate>
             <description><![CDATA[  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2025/04/15/hello-world/</guid>
+            <guid isPermalink="true">https://whw.homes/2025/04/15/hello-world/</guid>
             <title>Hello World</title>
-            <link>http://example.com/2025/04/15/hello-world/</link>
+            <link>https://whw.homes/2025/04/15/hello-world/</link>
             <pubDate>Tue, 15 Apr 2025 15:04:41 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
